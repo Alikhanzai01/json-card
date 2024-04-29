@@ -1,0 +1,75 @@
+[
+    {
+        
+        "image":"json cards/01.png",
+        "title": "AUDI E TRON 1",
+        "description": "AUDI",
+        "price": "7,000"
+        
+    },
+    {
+        
+        "image":"json cards/02.png",
+        "title": "AUDI E TRON 1",
+        "description": "AUDI",
+        "price": "20,000"
+        
+    },
+    {
+    
+        
+        "image":"json cards/03.PNG",
+        "title": "AUDI E TRON 7",
+        "description": "AUDI",
+        "price": "6,000"
+        
+    },
+    {
+        
+        "image":"json cards/04.PNG",
+        "title": "AUDI E TRON 4",
+        "description": "AUDI",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"json cards/05.PNG",
+        "title": "AUDI E TRON 5",
+        "description": "AUDI",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"json cards/06.PNG",
+        "title": "AUDI E TRON",
+        "description": "AUDI",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"json cards/07.PNG",
+        "title": "AUDI E TRON 1",
+        "description": "AUDI",
+        "price": "4,000"
+       
+    },
+    {
+        
+        "image":"json cards/08.PNG",
+        "title": "AUDI E TRON 2",
+        "description": "AUDI",
+        "price": "5,000"
+        
+    },
+    {
+        
+        "image":"json cards/05.PNG",
+        "title": "AUDI E TRON 3",
+        "description": "AUDI",
+        "price": "4,000"
+       
+    }
+]
